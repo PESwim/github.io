@@ -1,6 +1,12 @@
 _site/
+_site/*
 _site/**/*
-.sass*/
-Gem*
+_site/*.*
+.sass-cache/**/*
+.sass-cache/
+.sass-cache/*.*
+.sass-cache/*
+Gemfile*
+Gemfile.lock
 .jekylll*
 *.docx
