@@ -1,0 +1,6 @@
+theme: jekyll-theme-hacker
+github: [metadata]
+markdown: kramdown
+encoding: UTF-8
+input: GFM
+hard_wrap: false 
