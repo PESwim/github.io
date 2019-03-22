@@ -24,10 +24,10 @@
 <br/>
 
 ### Experience
-A 28 year career associated with technical projects, where a significant portion of time
+A 28-year career associated with technical projects, where a significant portion of time
 has been developing client/project specific computer code. Expertise in team leadership,
 product marketing, and both project and capital expenditures finance. A passion for coding
-has resulted in an interest to focus intently on applying my expertise software application projects.
+has resulted in interest to focus intently on applying my expertise software application projects.
 
 ### Recent Coding
 
@@ -57,7 +57,7 @@ Since 1989, awarded multiple government R&D grants as principal investigator wit
 (DOD), Defense Advanced Research Project Agency (DARPA), NASA, and Department of Energy (DOE).
 
 </td></tr><tr><td><li>&nbsp;</li></td><td>
-Marjor Software Deliverable - Visual Basic Desktop-GUI. Department of Defense materials analysis at hypersonic speeds.
+Major Software Deliverable - Visual Basic Desktop-GUI. Department of Defense materials analysis at hypersonic speeds.
 </td></tr></table>
 ---
 <br/>
@@ -70,7 +70,7 @@ Marjor Software Deliverable - Visual Basic Desktop-GUI. Department of Defense ma
 <table ><tr><td><li>&nbsp;</li></td><td>
 Process flow sheet and identification of unique mineralogy lead to a successful extraction approach
 and multi-million dollar funding. Work involved a team of 16 individuals and subcontractors.
-Coordinated reporting, QA/QC, and maintenance of chain of custody. Secure database 3D geo-spatial-data - Python.</td></tr></table>
+Coordinated reporting, QA/QC, and maintenance of chain of custody. Secure database 3D geospatial-data - Python.</td></tr></table>
 
 [Colorado Rare Earths, Inc.]()(US Rare Earths)] – Mineral Valuation consultant 2010-2011
 
@@ -85,15 +85,15 @@ into petroleum naphtha and diesel products. Awarded $2 million DOE cost share gr
 <table ><tr><td><li>&nbsp;</li></td><td>
 Escala Mining Concession  & La Joya mine (Bolivia), completed development review and spot
 sampling program for a lease concession and heap leach expansion to 500 tpd. Process design used
-to generate a finance model, resulted in a several million dollar JV finance and development agreement.</td></tr></table>
+to generate a financial model resulted in a several million dollar JV finance and development agreement.</td></tr></table>
 
 [American Biodiesel, Inc.]() – Officer 							2002-2006
 
 <table ><tr><td><li>&nbsp;</li></td><td>
-Licensed European acid oil process and completed oil based biodiesel
+Licensed European acid oil process and completed oil-based biodiesel
 plant design, PD & PID drawings using AutoCAD. Completed initial
 financing, project valuation, and site permitting, and leasing.
-VB.net/COM Cypto Desktop App for Excel enhanced security.</td></tr></table>
+VB.net/COM Crypto Desktop App for Excel enhanced security.</td></tr></table>
 
 [AZ Technology, Inc.]() - Senior Program Manager			 1996-2000:
 <p align='center'><i>(NASA, DOD, Aerospace Industry subcontractor)</i></p>
@@ -103,7 +103,7 @@ VB.net/COM Cypto Desktop App for Excel enhanced security.</td></tr></table>
 Managed a team(s) of production chemists and optical scientists producing
 high-performance optical instruments, coatings, and ceramic materials used
 in high-tech and aerospace applications. Project research and development 
-grant writing awards >$2.5 million as program manager or Principal Investigator
+grant writing awards >$2.5 million as a program manager or Principal Investigator
 for government and industry-funded R&D programs.</td></tr></table>   
 
 [HOT Enterprises, Inc.]() - Principle Investigator, Advanced Materials R&D    1991-1996
@@ -111,7 +111,7 @@ for government and industry-funded R&D programs.</td></tr></table>
 <table ><tr><td><li>&nbsp;</li></td><td>
 
 Supervised technical personnel, negotiated subcontracts and subcontractors. Chemical
-processing, specialty optical coatings, and thin film processing, resulted in government
+processing, specialty optical coatings, and thin film processing resulted in government
 grant awards and sale of technology.</td></tr></table>
 
 [Hazen Research, Inc.]() - Operations Supervisor/Engineer Independent Contractor 1990-1991
@@ -119,8 +119,8 @@ grant awards and sale of technology.</td></tr></table>
 <table><tr><td><li>&nbsp;</li></td><td>
 
 Operations Supervisor, 150 tpd vapor extraction pilot plant. Project lead, develop
-of statistical sampling methods and program Motorola PLC and computerized data loggers
-for control.CPR, OSHA, NIOSH, CERCLA, RCLA, and environmental hazardous waste
+statistical sampling methods and program Motorola PLC and computerized data loggers
+for control. CPR, OSHA, NIOSH, CERCLA, RCLA, and environmental hazardous waste
 and spill monitoring-training certified.
 </td></tr></table>
 
