@@ -1,6 +1,3 @@
-
-**[_(click to)_ VIEW FORMATTED](https://peswim.github.io/)** 
-
 ## Welcome - PESwim LLC  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <small>3/21/19</small>
 #### <hdunn.id@gmail.com> &nbsp; [github](<https://github.com/HBDunn>) &nbsp; [slack](https://hdunn.slack.com)
 
